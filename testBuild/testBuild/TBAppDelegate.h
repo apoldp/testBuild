@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  TBAppDelegate.h
 //  testBuild
 //
 //  Created by Anton Poluboiarynov on 10/3/13.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface TBAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 

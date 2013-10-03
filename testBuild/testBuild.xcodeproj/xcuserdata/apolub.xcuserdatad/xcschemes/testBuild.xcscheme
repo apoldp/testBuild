@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1FEFE2FB17FD7AF600D74101"
+               BlueprintIdentifier = "1FEFE34317FD7CB100D74101"
                BuildableName = "testBuild.app"
                BlueprintName = "testBuild"
                ReferencedContainer = "container:testBuild.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1FEFE32317FD7AF600D74101"
+               BlueprintIdentifier = "1FEFE36C17FD7CB100D74101"
                BuildableName = "testBuildTests.xctest"
                BlueprintName = "testBuildTests"
                ReferencedContainer = "container:testBuild.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FEFE2FB17FD7AF600D74101"
+            BlueprintIdentifier = "1FEFE34317FD7CB100D74101"
             BuildableName = "testBuild.app"
             BlueprintName = "testBuild"
             ReferencedContainer = "container:testBuild.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FEFE2FB17FD7AF600D74101"
+            BlueprintIdentifier = "1FEFE34317FD7CB100D74101"
             BuildableName = "testBuild.app"
             BlueprintName = "testBuild"
             ReferencedContainer = "container:testBuild.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FEFE2FB17FD7AF600D74101"
+            BlueprintIdentifier = "1FEFE34317FD7CB100D74101"
             BuildableName = "testBuild.app"
             BlueprintName = "testBuild"
             ReferencedContainer = "container:testBuild.xcodeproj">

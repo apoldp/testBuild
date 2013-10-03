@@ -7,13 +7,13 @@
         <!--class Prefix:identifier View Controller-->
         <scene sceneID="CtS-rA-C9T">
             <objects>
-                <viewController id="LVB-YS-i5n" customClass="ViewController" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="bdc-N1-crn" customClass="SKView">
+                <glkViewController preferredFramesPerSecond="30" id="LVB-YS-i5n" customClass="TBViewController" sceneMemberID="viewController">
+                    <glkView key="view" contentMode="scaleToFill" id="bdc-N1-crn">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
+                    </glkView>
+                </glkViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="btX-cZ-eVz" sceneMemberID="firstResponder"/>
             </objects>
         </scene>

@@ -1,14 +1,14 @@
 //
-//  AppDelegate.m
+//  TBAppDelegate.m
 //  testBuild
 //
 //  Created by Anton Poluboiarynov on 10/3/13.
 //  Copyright (c) 2013 Anton Poluboiarynov. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "TBAppDelegate.h"
 
-@implementation AppDelegate
+@implementation TBAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
