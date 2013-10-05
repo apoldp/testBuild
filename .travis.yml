@@ -4,4 +4,6 @@ before_install:
     - gem install ios_ci
     - brew install ios-sim
 
+script: xcodebuild -version
+
 script: ios_ci build --source-root $TRAVIS_BUILD_DIR/testBuild --target testBuild --scheme testBuild
